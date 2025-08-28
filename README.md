@@ -22,6 +22,9 @@
     fazer envio ao projeto
         git push
 
+    fazer atualização do projeto
+        git pull
+
 2 - Fluxo de criação de repositório
 
     Github:
@@ -43,4 +46,3 @@
         Caso haja, clica no ícone
         Em "changes", insere a mensagem obrigatória (etapa do commit)
         Clica na setinha ao lado de "commit", e escolhe a opção commit and push
-
